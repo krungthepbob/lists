@@ -50,3 +50,12 @@
 /(^|\.)avast.com/
 /(^|\.)jeffchays.com/
 /(^|\.)adjust.com/
+/traffic.omny.fm/
+/(^|\.)dickmorris.com/
+/traffic.libsyn.com/
+/(^|\.)adweek.com/
+/(^|\.)/wendymcelroy.com/
+/(^|\.)vice.com/
+/(^|\.)/mailchi.mp/
+/(^|\.)energized.pro/
+/amp.dailycaller.com/
