@@ -55,3 +55,7 @@
 /google-{0,}(analytics{0,}|(ad|tag)manager)\.[a-z]{2,7}/
 /lgtvonline.lge.com/
 /ngfts.lge.com/
+/^(.+\.)?cdn\.optimizely\.com/
+/^(.+\.)?amp\..+\.com$/
+/^(.+\.)?ampproject\.org$/
+/^(.+\.)?amp\.cloudflare\.com$/
