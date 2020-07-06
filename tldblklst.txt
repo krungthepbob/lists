@@ -1,5 +1,5 @@
-# Title: TLD Blocklist
-# https://www.mcmullintribe.com/lists/tldblklst.txt
+! Title: TLD Blocklist
+! https://www.mcmullintribe.com/lists/tldblklst.txt
 
 /^.+\.(tk|rest|fit|gq|work|ml|ga|cf|wang|cn)$/
 /^.+\.(accountant|bid|christmas|click|country|cricket|date|download)$/
