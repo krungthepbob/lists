@@ -1,7 +1,8 @@
 ! Title: TLD Blocklist
-! https://www.mcmullintribe.com/lists/tldblklst.txt
+! Reference: https://www.spamhaus.org/statistics/tlds/
+! Source: https://raw.githubusercontent.com/krungthepbob/lists/master/tldblklst.txt
 
-/^.+\.(tk|rest|fit|gq|work|ml|ga|cf|wang|cn)$/
+/^.+\.(date||men|tk|rest|fit|gq|work|ml|ga|cf|wang|cn)$/
 /^.+\.(accountant|bid|christmas|click|country|cricket|date|download)$/
 /^.+\.(faith|gdn|gq|kim|life|loan|world|xin|xyz|zip|link)$/
 /^.+\.(men|mom|ninja|pro|racing|realtor|science|space|stream|top|win|work)$/

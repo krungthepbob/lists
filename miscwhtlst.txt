@@ -1,4 +1,5 @@
-! Title: Misc
+! Title: Various Whitelist
+! Source: https://raw.githubusercontent.com/krungthepbob/lists/master/tldblklst.txt
 !
 /(^|\.)alibaba.com/
 /(^|\.)alicdn.com/
