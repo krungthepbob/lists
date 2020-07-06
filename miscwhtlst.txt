@@ -1,13 +1,13 @@
 # Misc
 #
-/(^|\.)theepochtimes.com/
-/(^|\.)theblaze.com/
-/(^|\.)secureserver.net/
+/(^|\.)alibaba.com/
+/(^|\.)alicdn.com/
+/(^|\.)aliexpress.com/
 /(^|\.)naturalnews.com/
 /(^|\.)news.usenetserver.com/
 /(^|\.)pdst.fm/
 /(^|\.)reddit.com/
+/(^|\.)secureserver.net/
+/(^|\.)theblaze.com/
+/(^|\.)theepochtimes.com/
 /(^|\.)traffic.megaphone.fm/
-/(^|\.)aliexpress.com/
-/(^|\.)alicdn.com/
-/(^|\.)alibaba.com/
