@@ -54,3 +54,4 @@
 /google-{0,}(analytics{0,}|(ad|tag)manager)\.[a-z]{2,7}/
 /(google|partner|pub)-{0,}ads{0,}-{0,}(apis{0,})\.[a-z]{2,7}/
 /double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}/
+/(.*)\.g00\.(.*)/
