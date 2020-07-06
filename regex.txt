@@ -1,11 +1,11 @@
-# Title: Tribe Regex
-# Description: https://www.mcmullintribe.com/lists/regex.txt
+! Title: AdGuard Regex
+! Source: https://raw.githubusercontent.com/krungthepbob/lists/master/regex.txt
 
 /^stat(s|istics)?[0-9]*[-.]/
 /^(.+[_.-])?ad[sxv]?[0-9]*[_.-]/
 /^(www[0-9]*\.)?xn--/
 
-# https://medium.com/@obutterbach/unlock-the-full-potential-of-pihole-e795342e0e36
+! https://medium.com/@obutterbach/unlock-the-full-potential-of-pihole-e795342e0e36
 /^(.+[-_.])??m?ad[sxv]?[0-9]*[-_.]/
 /^(.+[-_.])??xn--/
 /(.+[-_.])??adse?rv(er?|ice)?s?[0-9]*[-.]/
