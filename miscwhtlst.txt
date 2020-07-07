@@ -1,9 +1,13 @@
 ! Title: Various Whitelist
 ! Source: https://raw.githubusercontent.com/krungthepbob/lists/master/tldblklst.txt
 !
+/(^|\.)adweek.com/
 /(^|\.)alibaba.com/
 /(^|\.)alicdn.com/
 /(^|\.)aliexpress.com/
+/(^|\.)dickmorris.com/
+/(^|\.)energized.pro/
+/(^|\.)mailchi.mp/
 /(^|\.)naturalnews.com/
 /(^|\.)news.usenetserver.com/
 /(^|\.)pdst.fm/
@@ -12,3 +16,8 @@
 /(^|\.)theblaze.com/
 /(^|\.)theepochtimes.com/
 /(^|\.)traffic.megaphone.fm/
+/(^|\.)vice.com/
+/(^|\.)wendymcelroy.com/
+/amp.dailycaller.com/
+/traffic.libsyn.com/
+/traffic.omny.fm/
