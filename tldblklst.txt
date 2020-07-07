@@ -3,6 +3,7 @@
 ! Source: https://raw.githubusercontent.com/krungthepbob/lists/master/tldblklst.txt
 
 /^.+\.(date||men|tk|rest|fit|gq|work|ml|ga|cf|wang|cn)$/
+!
 /^.+\.(accountant|bid|christmas|click|country|cricket|date|download)$/
 /^.+\.(faith|gdn|gq|kim|life|loan|world|xin|xyz|zip|link)$/
 /^.+\.(mom|ninja|pro|racing|realtor|science|space|stream|top|win|work)$/
