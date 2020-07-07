@@ -45,17 +45,17 @@
 
 ! Misc AdGuard Additions
 !
-/(^|\.)/mailchi.mp/
-/(^|\.)/wendymcelroy.com/
-/(^|\.)adjust.com/
-/(^|\.)adweek.com/
-/(^|\.)avast.com/
-/(^|\.)dickmorris.com/
-/(^|\.)energized.pro/
-/(^|\.)jeffchays.com/
-/(^|\.)kaspersky-labs.com/
-/(^|\.)kaspersky.com/
-/(^|\.)vice.com/
-/amp.dailycaller.com/
-/traffic.libsyn.com/
-/traffic.omny.fm/
+!/(^|\.)/mailchi.mp/
+!/(^|\.)/wendymcelroy.com/
+!/(^|\.)adjust.com/
+!/(^|\.)adweek.com/
+!/(^|\.)avast.com/
+!/(^|\.)dickmorris.com/
+!/(^|\.)energized.pro/
+!/(^|\.)jeffchays.com/
+!/(^|\.)kaspersky-labs.com/
+!/(^|\.)kaspersky.com/
+!/(^|\.)vice.com/
+!/amp.dailycaller.com/
+!/traffic.libsyn.com/
+!/traffic.omny.fm/
