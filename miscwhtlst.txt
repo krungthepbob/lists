@@ -21,3 +21,5 @@
 /amp.dailycaller.com/
 /traffic.libsyn.com/
 /traffic.omny.fm/
+/adserver.va3.megaphone.cloud/ # traffic.megaphone.fm
+/translate.google.com/
