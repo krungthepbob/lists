@@ -1,4 +1,4 @@
-! Title: Various Whitelist
+! Title: Misc Allowlist
 ! Source: https://raw.githubusercontent.com/krungthepbob/lists/master/tldblklst.txt
 !
 /(^|\.)adweek.com/
