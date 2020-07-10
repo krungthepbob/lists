@@ -1,14 +1,14 @@
 ! Title: Various Regex
-! Source: https://www.reddit.com/r/pihole/comments/hi4g08/tiktok_list/
-
+! Description: https://www.reddit.com/r/pihole/comments/hi4g08/tiktok_list/
+!
 ! Tiktok additional
 !
-
+!
 /(^|\.)tiktok((cdn)|(v))?\.((com)|(org))(\.|-)?/
-
+!
 ! Roku
 ! Description: https://www.reddit.com/r/pihole/comments/b3fj60/regex_megathread/
-
+!
 /(ads|logs|cloudservices|image|images|web|prod.mobile|wwwimg|captive|customer-feedbacks|amoeba|amoeba2|sr|giga.sb).roku.com$/
 /^([a-z0-9]+[.])*(ads|captive|cloudservices|logs)\.roku\.com/
 /^(?!.*hulu)(.+[-_.])??m?ad[sxv]?[0-9]*[-_.]/
@@ -42,7 +42,7 @@
 /^https?://([A-Za-z0-9.-]*\.)?info\.yahoo\.com/
 /^https?://([A-Za-z0-9.-]*\.)?ads\.yahoo\.com/
 /^https?://([A-Za-z0-9.-]*\.)?global\.ard\.yahoo\.com/
-
+!
 ! Misc AdGuard Additions
 !
 /(^|\.)adjust.com/
