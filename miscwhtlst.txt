@@ -3,16 +3,26 @@
 !
 /(^|\.)energized.pro/
 /(^|\.secureserver.net/
+/20313.mc.tritondigital.com/
 /adserver.va3.megaphone.cloud/ # traffic.megaphone.fm
 /amp.dailycaller.com/
+/api-glb-sin.smoot.apple.com/
 /api.smoot.apple.com/
 /brew.sh/
 /collector.githubapp.com/
+/fonts.gstatic.com/
 /graph.facebook.com/
 /heavy.com/
+/iosapps.itunes.apple.com/
+/ipfs.io/
+/mailchi.mp/
 /news.usenetserver.com/
 /pdst.fm/
+/pinterest.com/
+/play.googleapis.com/
+/play.googleapis.com/
 /ssl/gstatic.com/
+/star.c10r.facebook.com/
 /traffic.libsyn.com/
 /traffic.megaphone.fm/
 /traffic.omny.fm/
@@ -32,7 +42,3 @@
 /www.theepochtimes.com/
 /www.vice.com/
 /www.wendymcelroy.com/
-/api-glb-sin.smoot.apple.com/
-/mailchi.mp/
-/play.googleapis.com/
-/20313.mc.tritondigital.com/
