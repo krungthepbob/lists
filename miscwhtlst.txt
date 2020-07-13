@@ -48,3 +48,6 @@
 /www.audible.com/
 /tp.5eaa38a2d-frontier.audible.com/
 /analytics.chase.com/
+/items.forhonor.ubisoft.com/
+/api.facebook.com/
+/b-api.facebook.com/
