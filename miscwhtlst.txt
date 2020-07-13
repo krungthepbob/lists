@@ -42,3 +42,9 @@
 /www.theepochtimes.com/
 /www.vice.com/
 /www.wendymcelroy.com/
+/www.netflix.com/
+/www.lewrockwell.com/
+/www.bing.com/
+/www.audible.com/
+/tp.5eaa38a2d-frontier.audible.com/
+/analytics.chase.com/
