@@ -2,7 +2,8 @@
 ! Source: https://raw.githubusercontent.com/krungthepbob/lists/master/tldblklst.txt
 !
 /(^|\.)energized.pro/
-/(^|\.secureserver.net/
+/(^|\.)secureserver.net/
+/(^|\.)brew.sh/
 /20313.mc.tritondigital.com/
 /adserver.va3.megaphone.cloud/ # traffic.megaphone.fm
 /amp.dailycaller.com/
@@ -13,7 +14,6 @@
 /api.smoot.apple.com/
 /audible.sc.omtrdc.net/
 /b-api.facebook.com/
-/brew.sh/
 /cf-media.sndcdn.com/
 /collector.githubapp.com/
 /d3ctxlq1ktw2nl.cloudfront.net/
@@ -68,3 +68,4 @@
 /www.thestar.com/
 /www.vice.com/
 /www.wendymcelroy.com/
+/www.armytimes.com/
