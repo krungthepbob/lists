@@ -69,3 +69,6 @@
 /www.vice.com/
 /www.wendymcelroy.com/
 /www.armytimes.com/
+/pkgautoupdate.synology.com/
+/d2ojpxxtu63wzl.cloudfront.net/
+/d2wy8f7a9ursnm.cloudfront.net/
