@@ -14,12 +14,14 @@
 /api.smoot.apple.com/
 /audible.sc.omtrdc.net/
 /b-api.facebook.com/
+/cdn.jsdeliver.net/
 /cf-media.sndcdn.com/
 /collector.githubapp.com/
 /d3ctxlq1ktw2nl.cloudfront.net/
 /feeds.megaphone.fm/
 /feeds.podiant.co/
 /feeds.soundcloud.com/
+/fonts.googleapis.com/
 /fonts.gstatic.com/
 /go.microsoft.com/
 /graph.facebook.com/
