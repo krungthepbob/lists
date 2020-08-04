@@ -75,3 +75,5 @@
 /d2ojpxxtu63wzl.cloudfront.net/
 /d2wy8f7a9ursnm.cloudfront.net/
 /tracking.podiant.co/
+/argent.xyz/
+/tinypass.com/
