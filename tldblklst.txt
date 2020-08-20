@@ -2,7 +2,7 @@
 ! Reference: https://www.spamhaus.org/statistics/tlds/
 ! Source: https://raw.githubusercontent.com/krungthepbob/lists/master/tldblklst.txt
 !
-/^.+\.(date||men|tk|rest|fit|gq|work|ml|ga|cf|wang|cn)$/
+/^.+\.(date||men|tk|rest|fit|gq|work|ml|ga|cf|wang)$/
 !
 /^.+\.(accountant|bid|christmas|click|country|cricket|date|download)$/
 /^.+\.(faith|gdn|gq|kim|life|loan|world|xin|xyz|zip|link)$/
