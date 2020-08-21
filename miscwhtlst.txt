@@ -39,12 +39,12 @@
 /items.forhonor.ubisoft.com/
 /lineman.onelink.me/
 /link.theblaze.com/
+/kasikornbankpubliccompany.sc.omtrdc.net/
 /mailchi.mp/
 /news.usenetserver.com/
 /oauth.reddit.com/
 /pdst.fm/
 /pinterest.com/
-/
 /play.googleapis.com/
 /play.googleapis.com/
 /pkgautoupdate.synology.com/
@@ -60,6 +60,7 @@
 /traffic.omny.fm/
 /traffic.podiant.co/
 /tracking.podiant.co/
+/tracking-protection.cdn.mozilla.net/
 /translate.google.com/
 /usenetserver.com/
 /users.telenet.be/
