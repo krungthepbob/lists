@@ -4,9 +4,3 @@
 !
 /^.+\.(date||men|tk|rest|fit|gq|work|ml|ga|cf|wang)$/
 !
-/^.+\.(accountant|bid|christmas|click|country|cricket|date|download)$/
-/^.+\.(faith|gdn|gq|kim|life|loan|world|xin|xyz|zip|link)$/
-/^.+\.(mom|ninja|pro|racing|realtor|science|space|stream|top|win|work)$/
-/^.+\.(site|club|host|party)$/
-/^.+\.(hosting|online|sh|network|website|live)$/
-/^.+\.(cm|love|luxe|realestate)$/
