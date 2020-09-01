@@ -45,8 +45,8 @@
 !
 ! Misc AdGuard Additions
 !
-/(^|\.)adjust.com/
-/(^|\.)avast.com/
-/(^|\.)jeffchays.com/
-/(^|\.)kaspersky-labs.com/
-/(^|\.)kaspersky.com/
+/([A-Za-z0-9.-]*\.)?adjust.com/
+/([A-Za-z0-9.-]*\.)?avast.com/
+/([A-Za-z0-9.-]*\.)?jeffchays.com/
+/([A-Za-z0-9.-]*\.)?kaspersky-labs.com/
+/([A-Za-z0-9.-]*\.)?kaspersky.com/
