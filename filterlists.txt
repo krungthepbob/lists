@@ -1,3 +1,4 @@
 ! INCLUDE RESOURCES -------------------------------------------
-!#include https://raw.githubusercontent.com/eEIi0A5L/adblock_filter/master/youtube_wo_tonikaku_filter.txt
-!#include https://raw.githubusercontent.com/DandelionSprout/adfilt/master/YouTubeEvenMorePureVideoExperience.txt
+!#include blocklist.tx
+!#include regex.txt
+!#include tldblocklist.txt
