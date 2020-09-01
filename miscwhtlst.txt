@@ -88,4 +88,4 @@
 /www.thestar.com/
 /www.vice.com/
 /www.wendymcelroy.com/
-
+@@||ublock.org^$important

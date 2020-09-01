@@ -1,4 +1,0 @@
-! INCLUDE RESOURCES -------------------------------------------
-!#include blocklist.txt
-!#include regex.txt
-!#include tldblocklist.txt
