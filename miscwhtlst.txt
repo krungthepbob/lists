@@ -1,9 +1,23 @@
 ! Title: Misc Allowlist
 ! Source: https://raw.githubusercontent.com/krungthepbob/lists/master/tldblklst.txt
 !
-@@ublock.org
-@@www.wendymcelroy.com
-@@www.vice.com
+ublock.org
+www.dickmorris.com
+www.gstatic.com
+www.lazada.co.id
+www.lewrockwell.com
+www.logitech.com
+www.naturalnews.com
+www.netflix.com
+www.reddit.com
+www.redditmedia.com
+www.redditstatic.com
+www.scottadamssays.com
+www.wendymcelroy.com
+www.vice.com
+www.theblaze.com
+www.theepochtimes.com
+www.thestar.com
 /(^|\.)brew.sh/
 /(^|\.)energized.pro/
 /(^|\.)secureserver.net/
@@ -75,17 +89,3 @@
 /www.armytimes.com/
 /www.audible.com/
 /www.bing.com/
-/www.dickmorris.com/
-/www.gstatic.com/
-/www.lazada.co.id/
-/www.lewrockwell.com/
-/www.logitech.com/
-/www.naturalnews.com/
-/www.netflix.com/
-/www.reddit.com/
-/www.redditmedia.com/
-/www.redditstatic.com/
-/www.scottadamssays.com/
-/www.theblaze.com/
-/www.theepochtimes.com/
-/www.thestar.com/
