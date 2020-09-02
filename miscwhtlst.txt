@@ -1,18 +1,20 @@
 ! Title: Misc Allowlist
 ! Source: https://raw.githubusercontent.com/krungthepbob/lists/master/tldblklst.txt
 !
+@@ublock.org
+@@www.wendymcelroy.com
+/(^|\.)brew.sh/
 /(^|\.)energized.pro/
 /(^|\.)secureserver.net/
-/(^|\.)brew.sh/
 /20313.mc.tritondigital.com/
 /adserver.va3.megaphone.cloud/ # traffic.megaphone.fm
 /amp.dailycaller.com/
 /analytics.chase.com/
-/argent.xyz/
 /api-glb-sin.smoot.apple.com/
 /api.facebook.com/
 /api.facebook.com/
 /api.smoot.apple.com/
+/argent.xyz/
 /audible.sc.omtrdc.net/
 /b-api.facebook.com/
 /cdn.jsdeliver.net/
@@ -20,9 +22,9 @@
 /checkout-m.lazada.co.id/
 /citizenfreepress.com/
 /collector.githubapp.com/
-/d3ctxlq1ktw2nl.cloudfront.net/
 /d2ojpxxtu63wzl.cloudfront.net/
 /d2wy8f7a9ursnm.cloudfront.net/
+/d3ctxlq1ktw2nl.cloudfront.net/
 /feeds.megaphone.fm/
 /feeds.podiant.co/
 /feeds.soundcloud.com/
@@ -37,17 +39,18 @@
 /ipfs.io/
 /items.forhonor.ubisoft.com/
 /items.forhonor.ubisoft.com/
+/kasikornbankpubliccompany.sc.omtrdc.net/
+/lewrockwell.us7.list-manage.com/
 /lineman.onelink.me/
 /link.theblaze.com/
-/kasikornbankpubliccompany.sc.omtrdc.net/
 /mailchi.mp/
 /news.usenetserver.com/
 /oauth.reddit.com/
 /pdst.fm/
 /pinterest.com/
-/play.googleapis.com/
-/play.googleapis.com/
 /pkgautoupdate.synology.com/
+/play.googleapis.com/
+/play.googleapis.com/
 /reddit.map.fastly.net/
 /rs-stripe.theblaze.com/
 /ssl/gstatic.com/
@@ -55,12 +58,12 @@
 /theblaze.com/
 /tinypass.com/
 /tp.5eaa38a2d-frontier.audible.com/
+/tracking-protection.cdn.mozilla.net/
+/tracking.podiant.co/
 /traffic.libsyn.com/
 /traffic.megaphone.fm/
 /traffic.omny.fm/
 /traffic.podiant.co/
-/tracking.podiant.co/
-/tracking-protection.cdn.mozilla.net/
 /translate.google.com/
 /usenetserver.com/
 /users.telenet.be/
@@ -75,7 +78,6 @@
 /www.gstatic.com/
 /www.lazada.co.id/
 /www.lewrockwell.com/
-/lewrockwell.us7.list-manage.com/
 /www.logitech.com/
 /www.naturalnews.com/
 /www.netflix.com/
@@ -87,5 +89,3 @@
 /www.theepochtimes.com/
 /www.thestar.com/
 /www.vice.com/
-/www.wendymcelroy.com/
-@@||ublock.org^$important
