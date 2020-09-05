@@ -2,6 +2,7 @@
 ! Source: https://raw.githubusercontent.com/krungthepbob/lists/master/tldblklst.txt
 !
 @@||blog.torproject.org^$important
+@@||interc.pt^$important
 !
 20313.mc.tritondigital.com
 adserver.va3.megaphone.cloud                            # traffic.megaphone.fm
