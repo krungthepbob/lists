@@ -84,6 +84,7 @@ www.vice.com
 www.theblaze.com
 www.theepochtimes.com
 www.thestar.com
+@@||ynuf.aliapp.org^
 /(^|\.)brew.sh/
 /(^|\.)energized.pro/
 /(^|\.)secureserver.net/
