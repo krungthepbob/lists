@@ -3,6 +3,8 @@
 !
 @@||blog.torproject.org^$important
 @@||interc.pt^$important
+@@||m.9gag.com^$important
+@@||xtraa-secure.reviveservers.com^$important
 !
 20313.mc.tritondigital.com
 adserver.va3.megaphone.cloud                            # traffic.megaphone.fm
