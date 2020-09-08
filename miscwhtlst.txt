@@ -1,9 +1,12 @@
 ! Title: Misc Allowlist
 ! Source: https://raw.githubusercontent.com/krungthepbob/lists/master/tldblklst.txt
 !
+@@||api.db-ip.com^$important
 @@||blog.torproject.org^$important
+@@||checkip.dyndns.org^$important
 @@||interc.pt^$important
 @@||m.9gag.com^$important
+@@||o1678976x198.outbound-mail.sendgrid.net^$important
 @@||xtraa-secure.reviveservers.com^$important
 !
 20313.mc.tritondigital.com
