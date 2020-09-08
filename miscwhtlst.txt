@@ -5,8 +5,11 @@
 @@||blog.torproject.org^$important
 @@||checkip.dyndns.org^$important
 @@||interc.pt^$important
+@@||ipecho.net^$important
 @@||m.9gag.com^$important
+@@||mx.sendgrid.net^$importan
 @@||o1678976x198.outbound-mail.sendgrid.net^$important
+@@||sendgrid.net^$important
 @@||xtraa-secure.reviveservers.com^$important
 !
 20313.mc.tritondigital.com
