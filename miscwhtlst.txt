@@ -1,7 +1,6 @@
 ! Title: Misc Allowlist
 ! Source: https://raw.githubusercontent.com/krungthepbob/lists/master/tldblklst.txt
 !
-@@||api.db-ip.com^$important
 @@||blog.torproject.org^$important
 @@||checkip.dyndns.org^$important
 @@||interc.pt^$important
