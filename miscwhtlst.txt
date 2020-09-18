@@ -10,6 +10,10 @@
 @@||o1678976x198.outbound-mail.sendgrid.net^$important
 @@||sendgrid.net^$important
 @@||xtraa-secure.reviveservers.com^$important
+@@||app.e.seagate.com^$important
+@@||images.e.seagate.com^$important
+@@||jellyfin^$important
+@@||app.shopback.com^$important
 !
 20313.mc.tritondigital.com
 adserver.va3.megaphone.cloud                            # traffic.megaphone.fm
