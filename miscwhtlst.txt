@@ -14,6 +14,9 @@
 @@||images.e.seagate.com^$important
 @@||jellyfin^$important
 @@||app.shopback.com^$important
+@@||app.e.seagate.com^$important
+@@||images.e.seagate.com^$important
+@@||unagi-na.amazon.com^$important
 !
 20313.mc.tritondigital.com
 adserver.va3.megaphone.cloud                            # traffic.megaphone.fm
