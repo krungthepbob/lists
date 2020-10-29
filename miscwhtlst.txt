@@ -19,6 +19,11 @@
 @@||unagi-na.amazon.com^$important
 @@||r20.rs6.net^$important
 @@||www.mlive.com^$important
+@@||nondzee^$important
+@@||click.member.americanexpress.com^$important
+@@||image.member.americanexpress.com^$important
+@@||fig.bbc.co.uk^$important
+@@||www.al.com^$important
 !
 20313.mc.tritondigital.com
 adserver.va3.megaphone.cloud                            # traffic.megaphone.fm
