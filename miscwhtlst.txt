@@ -25,6 +25,7 @@
 @@||fig.bbc.co.uk^$important
 @@||www.al.com^$important
 !
+!
 20313.mc.tritondigital.com
 adserver.va3.megaphone.cloud                            # traffic.megaphone.fm
 amp.dailycaller.com
