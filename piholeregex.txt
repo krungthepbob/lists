@@ -1,23 +1,22 @@
-! Title: TLD Blocklist
-! Reference: https://www.spamhaus.org/statistics/tlds/
-! Source: https://raw.githubusercontent.com/krungthepbob/lists/master/blocklist.txt
-!
-!
+# Title: TLD Blocklist
+# Reference: https://www.spamhaus.org/statistics/tlds/
+# Source: https://raw.githubusercontent.com/krungthepbob/lists/master/blocklist.txt
+#
+#
 /^.+\.(date||men|tk|rest|fit|gq|work|ml|ga|cf|wang)$/
-!
-!
-! Title: Various Regex
-! Description: https://www.reddit.com/r/pihole/comments/hi4g08/tiktok_list/
-! Tiktok additional
-!
-!
+#
+#
+# Title: Various Regex
+# Description: https://www.reddit.com/r/pihole/comments/hi4g08/tiktok_list/
+# Tiktok additional
+#
+#
 /(^|\.)tiktok((cdn)|(v))?\.((com)|(org))(\.|-)?/
-
-!
-!
-! Title: Misc AdGuard Additions
-!
-!
+#
+#
+# Title: Misc AdGuard Additions
+#
+#
 /([A-Za-z0-9.-]*\.)?adjust.com/
 /([A-Za-z0-9.-]*\.)?avast.com/
 /([A-Za-z0-9.-]*\.)?jeffchays.com/
@@ -26,12 +25,12 @@
 /^stat(s|istics)?[0-9]*[-.]/
 /^(.+[_.-])?ad[sxv]?[0-9]*[_.-]/
 /^(www[0-9]*\.)?xn--/
-!
-!
-! Title: Regex
-! https://medium.com/bobutterbach/unlock-the-full-potential-of-pihole-e795342e0e36
-!
-!
+#
+#
+# Title: Regex
+# https://medium.com/bobutterbach/unlock-the-full-potential-of-pihole-e795342e0e36
+#
+#
 /(.*)\.g00\.(.*)/
 /(.+[-_.])??adse?rv(er?|ice)?s?[0-9]*[-.]/
 /([A-Za-z0-9.-]*\.)?.doubleclick(\.\w{2}\.\w{2}|\.\w{2,4})/
