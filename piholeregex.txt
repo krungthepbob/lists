@@ -12,44 +12,7 @@
 !
 !
 /(^|\.)tiktok((cdn)|(v))?\.((com)|(org))(\.|-)?/
-!
-!
-! Title: Roku
-! Description: https://www.reddit.com/r/pihole/comments/b3fj60/regex_megathread/
-!
-!
-/(ads|logs|cloudservices|image|images|web|prod.mobile|wwwimg|captive|customer-feedbacks|amoeba|amoeba2|sr|giga.sb).roku.com$/
-/^([a-z0-9]+[.])*(ads|captive|cloudservices|logs)\.roku\.com/
-/^https?://([A-Za-z0-9.-]*\.)?clicks\.beap\.bc\.yahoo\.com/
-/^https?://([A-Za-z0-9.-]*\.)?secure\.footprint\.net/
-/^https?://([A-Za-z0-9.-]*\.)?match\.com/
-/^https?://([A-Za-z0-9.-]*\.)?clicks\.beap\.bc\.yahoo(\.\w{2}\.\w{2}|\.\w{2,4})/
-/^https?://([A-Za-z0-9.-]*\.)?sitescout(\.\w{2}\.\w{2}|\.\w{2,4})/
-/^https?://([A-Za-z0-9.-]*\.)?appnexus(\.\w{2}\.\w{2}|\.\w{2,4})/
-/^https?://([A-Za-z0-9.-]*\.)?evidon(\.\w{2}\.\w{2}|\.\w{2,4})/
-/^https?://([A-Za-z0-9.-]*\.)?mediamath(\.\w{2}\.\w{2}|\.\w{2,4})/
-/^https?://([A-Za-z0-9.-]*\.)?scorecardresearch(\.\w{2}\.\w{2}|\.\w{2,4})/
-/^https?://([A-Za-z0-9.-]*\.)?doubleclick(\.\w{2}\.\w{2}|\.\w{2,4})/
-/^https?://([A-Za-z0-9.-]*\.)?flashtalking(\.\w{2}\.\w{2}|\.\w{2,4})/
-/^https?://([A-Za-z0-9.-]*\.)?turn(\.\w{2}\.\w{2}|\.\w{2,4})/
-/^https?://([A-Za-z0-9.-]*\.)?mathtag(\.\w{2}\.\w{2}|\.\w{2,4})/
-/^https?://([A-Za-z0-9.-]*\.)?googlesyndication(\.\w{2}\.\w{2}|\.\w{2,4})/
-/^https?://([A-Za-z0-9.-]*\.)?s\.yimg\.com/cv/ae/us/audience/
-/^https?://([A-Za-z0-9.-]*\.)?clicks\.beap/
-/^https?://([A-Za-z0-9.-]*\.)?.doubleclick(\.\w{2}\.\w{2}|\.\w{2,4})/
-/^https?://([A-Za-z0-9.-]*\.)?yieldmanager(\.\w{2}\.\w{2}|\.\w{2,4})/
-/^https?://([A-Za-z0-9.-]*\.)?w55c(\.\w{2}\.\w{2}|\.\w{2,4})/
-/^https?://([A-Za-z0-9.-]*\.)?adnxs(\.\w{2}\.\w{2}|\.\w{2,4})/
-/^https?://([A-Za-z0-9.-]*\.)?advertising\.com/
-/^https?://([A-Za-z0-9.-]*\.)?evidon\.com/
-/^https?://([A-Za-z0-9.-]*\.)?scorecardresearch\.com/
-/^https?://([A-Za-z0-9.-]*\.)?flashtalking\.com/
-/^https?://([A-Za-z0-9.-]*\.)?turn\.com/
-/^https?://([A-Za-z0-9.-]*\.)?mathtag\.com/
-/^https?://([A-Za-z0-9.-]*\.)?surveylink/
-/^https?://([A-Za-z0-9.-]*\.)?info\.yahoo\.com/
-/^https?://([A-Za-z0-9.-]*\.)?ads\.yahoo\.com/
-/^https?://([A-Za-z0-9.-]*\.)?global\.ard\.yahoo\.com/
+
 !
 !
 ! Title: Misc AdGuard Additions
@@ -65,8 +28,8 @@
 /^(www[0-9]*\.)?xn--/
 !
 !
-! Title: AdGuard Regex
-! https://medium.com/@obutterbach/unlock-the-full-potential-of-pihole-e795342e0e36
+! Title: Regex
+! https://medium.com/bobutterbach/unlock-the-full-potential-of-pihole-e795342e0e36
 !
 !
 /(.*)\.g00\.(.*)/
@@ -77,7 +40,7 @@
 /([A-Za-z0-9.-]*\.)?advertising\.com/
 /([A-Za-z0-9.-]*\.)?appnexus(\.\w{2}\.\w{2}|\.\w{2,4})/
 /([A-Za-z0-9.-]*\.)?clicks\.beap/
-/([A-Za-z0-9.-]*\.)?clicks\.beap\.bc\.yahoo(\.\w{2}\.\w{2}|\.\w{2,4}/
+/([A-Za-z0-9.-]*\.)?clicks\.beap\.bc\.yahoo(\.\w{2}\.\w{2}|\.\w{2,4})/
 /([A-Za-z0-9.-]*\.)?clicks\.beap\.bc\.yahoo\.com/
 /([A-Za-z0-9.-]*\.)?doubleclick(\.\w{2}\.\w{2}|\.\w{2,4})/
 /([A-Za-z0-9.-]*\.)?evidon(\.\w{2}\.\w{2}|\.\w{2,4})/
