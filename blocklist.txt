@@ -1,2 +1,5 @@
 js.hs-scripts.com #AdGuard DNS Filter
 gear.sca.samsung.com #AdGuard No Tracking
+ipapi.co #AdGuard DNS
+in.appcenter.ms #AdGuard No Tracking
+api.db-ip.com #AdGuard No Tracking
