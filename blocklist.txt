@@ -5,3 +5,4 @@ in.appcenter.ms #AdGuard No Tracking
 api.db-ip.com #AdGuard No Tracking
 rdvs.alljoyn.org #AdGuard Large
 mas-ext.amazon.com # Adguard Perflyst and Dandelion Sprout's Smart-TV
+hotapi.sgsnssdk.com # Adguard Large
