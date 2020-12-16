@@ -3,6 +3,7 @@ https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists
 https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt
 https://raw.githubusercontent.com/evankrob/hosts-filenetrehost/master/ad_servers.txt
 https://sysctl.org/cameleon/hosts
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CountryCodesLists/Thailand.txt
 #
 # Prevent Phishing
 #
