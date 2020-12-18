@@ -9,3 +9,10 @@ https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribabl
 #
 https://gitlab.com/Kurobeats/phishing_hosts/raw/master/hosts
 https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt
+#
+# DeveloperDan
+#
+https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
+https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt
+https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt
+https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
