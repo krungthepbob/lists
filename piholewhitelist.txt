@@ -1,2 +1,3 @@
 mandrillapp.com                # Testing for emby blocking
 www.googleadservices.com       # Enabled for shopping
+api.nzbgeek.info               # Nzbgeek UseNet
