@@ -86,7 +86,4 @@
 /^(.+\.)?amp\..+\.com$/
 /^(.+\.)?ampproject\.org$/
 /^(.+\.)?amp\.cloudflare\.com$/
-#
-# https://www.reddit.com/r/pihole/comments/kd7szs/majority_of_youtube_ads_are_blocked_with_this/
-#
-r[0-9]*---sn-.*-.*.googlevideo.com
+
