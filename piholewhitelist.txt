@@ -3,3 +3,4 @@ www.googleadservices.com       # Enabled for shopping
 api.nzbgeek.info               # Nzbgeek UseNet
 traffic.megaphone.fm           # podcasts
 api.smoot.apple.com            # Allows Wire Messenger to send pictures
+amazonadsi-a.akamaihd.net      # Allows for FireTV Appstore access
