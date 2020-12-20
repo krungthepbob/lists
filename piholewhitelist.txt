@@ -4,3 +4,4 @@ api.nzbgeek.info               # Nzbgeek UseNet
 traffic.megaphone.fm           # podcasts
 api.smoot.apple.com            # Allows Wire Messenger to send pictures
 amazonadsi-a.akamaihd.net      # Allows for FireTV Appstore access
+gs-loc.apple.com               # Allow Wire Messenger to forward some items
