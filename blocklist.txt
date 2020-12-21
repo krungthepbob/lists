@@ -4,3 +4,8 @@ ipapi.co #AdGuard DNS
 in.appcenter.ms #AdGuard No Tracking
 api.db-ip.com #AdGuard No Tracking
 mas-ext.amazon.com # Adguard Perflyst and Dandelion Sprout's Smart-TV
+beacons.gcp.gvt2.com # pfSense
+beacons5.gvt3.com
+beacons5.gvt2.com
+beacons.gcp.gvt2.com
+beacons4.gvt2.com
