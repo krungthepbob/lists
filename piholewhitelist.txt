@@ -132,5 +132,6 @@ outlook.office365.com
 products.office.com 
 c.s-microsoft.com 
 i.s-microsoft.com 
-login.live.com l
-ogin.microsoftonline.com
+login.live.com 
+login.microsoftonline.com
+officeclient.microsoft.com
