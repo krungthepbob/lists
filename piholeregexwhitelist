@@ -3,3 +3,4 @@
 (\.|^)plex.direct$
 (\.|^)wire.com$
 (\.|^)wickr.com$
+s{1..5}.symcb.com
