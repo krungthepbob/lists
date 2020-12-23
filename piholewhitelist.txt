@@ -44,6 +44,9 @@ dashboard.plex.tv
 gravatar.com    # Plex Custom login pictures
 thetvdb.com     # Metadata for tv series
 themoviedb.com  # Metadata for movies
+#
+# Radarr
+#
 radarr.video
 lidarr.audio
 bazarr.media
@@ -90,7 +93,8 @@ portal.fb.com
 star.c10r.facebook.com 
 star-mini.c10r.facebook.com 
 b-api.facebook.com 
-fb.me bigzipfiles.facebook.com 
+fb.me 
+bigzipfiles.facebook.com 
 l.facebook.com
 #
 # Xbox Live
@@ -122,5 +126,11 @@ dl.delivery.mp.microsoft.com
 geo-prod.do.dsp.mp.microsoft.com 
 displaycatalog.mp.microsoft.com
 #
-# Microsoft
+# Microsoft Web Pages
 #
+outlook.office365.com
+products.office.com 
+c.s-microsoft.com 
+i.s-microsoft.com 
+login.live.com l
+ogin.microsoftonline.com
