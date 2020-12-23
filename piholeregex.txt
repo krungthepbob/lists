@@ -22,7 +22,6 @@
 /([A-Za-z0-9.-]*\.)?jeffchays.com/
 /([A-Za-z0-9.-]*\.)?kaspersky-labs.com/
 /([A-Za-z0-9.-]*\.)?kaspersky.com/
-/([A-Za-z0-9.-]*\.)?amazon-adsystem.com/   #AdGuard Large
 /^stat(s|istics)?[0-9]*[-.]/
 /^(.+[_.-])?ad[sxv]?[0-9]*[_.-]/
 /^(www[0-9]*\.)?xn--/
