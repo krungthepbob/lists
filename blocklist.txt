@@ -1,1 +1,2 @@
-
+app-measurement.com # Google
+crashlyticsreports-pa.googleapis.com # Google
