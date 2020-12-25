@@ -1,71 +1,32 @@
-mandrillapp.com                # Testing for emby blocki
-api.nzbgeek.info               # Nzbgeek UseNet
-traffic.megaphone.fm           # podcasts
-api.smoot.apple.com            # Allows Wire Messenger to send pictures
-amazonadsi-a.akamaihd.net      # Allows for FireTV Appstore access
-gs-loc.apple.com               # Allow Wire Messenger to forward some items
-line.naper.jp
-telegram.org
-usenet-crawler.com             # UseNet
-portainer.io
-docker.io
-github.io
-#
-# Plex Domains
-# 
-plex.tv
-tvdb2.plex.tv
-pubsub.plex.bz 
-proxy.plex.bz 
-proxy02.pop.ord.plex.bz 
-cpms.spop10.ams.plex.bz 
-meta-db-worker02.pop.ric.plex.bz 
-meta.plex.bz 
-tvthemes.plexapp.com.cdn.
-cloudflare.net 
-vthemes.plexapp.com 
+# Whitelist for Pihole
 106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services 
-meta.plex.tv 
-cpms35.spop10.ams.plex.bz 
-proxy.plex.tv 
-metrics.plex.tv 
-pubsub.plex.tv 
-status.plex.tv 
-www.plex.tv 
-node.plexapp.com 
-nine.plugins.plexapp.com 
-staging.plex.tv 
+amazonadsi-a.akamaihd.net      # Allows for FireTV Appstore access
+api.facebook.com 
+api.nzbgeek.info               # Nzbgeek UseNet
+api.smoot.apple.com            # Allows Wire Messenger to send pictures
 app.plex.tv 
-o1.email.plex.tv  
-o2.sg0.plex.tv 
-dashboard.plex.tv
-# Domains used by Plex
-gravatar.com    # Plex Custom login pictures
-thetvdb.com     # Metadata for tv series
-themoviedb.com  # Metadata for movies
-#
-# Radarr
-#
-radarr.video
-lidarr.audio
-bazarr.media
-#
-# Sonarr
-#
-sonarr.tv
-services.sonarr.tv 
-skyhook.sonarr.tv 
-download.sonarr.tv 
+apps.skype.com 
 apt.sonarr.tv 
-forums.sonarr.tv
-tracking.epicgames.com # Epic Games Store
-tracking-protection.cdn.mozilla.net # Mozilla Firefox Tracking Protection
-imagesak.secureserver.net # GoDaddy webmail buttons
-#
-# Facebook, Facebook Messenger
-#
-upload.facebook.com
+b-api.facebook.com 
+b-graph.facebook.com 
+bazarr.media
+bigzipfiles.facebook.com 
+c.s-microsoft.com 
+cdn.fbsbx.com 
+client-s.gateway.messenger.live.com
+client-s.gateway.messenger.live.com 
+clientconfig.passport.net
+cloudflare.net 
+connect.facebook.com 
+cpms.spop10.ams.plex.bz 
+cpms35.spop10.ams.plex.bz 
 creative.ak.fbcdn.net 
+dashboard.plex.tv
+displaycatalog.mp.microsoft.com
+dl.delivery.mp.microsoft.com 
+docker.io
+download.sonarr.tv 
+edge-mqtt.facebook.com 
 external-lhr0-1.xx.fbcdn.net 
 external-lhr1-1.xx.fbcdn.net 
 external-lhr10-1.xx.fbcdn.net 
@@ -77,63 +38,74 @@ external-lhr6-1.xx.fbcdn.net
 external-lhr7-1.xx.fbcdn.net 
 external-lhr8-1.xx.fbcdn.net 
 external-lhr9-1.xx.fbcdn.net 
-fbcdn-creative-a.akamaihd.net 
-scontent-lhr3-1.xx.fbcdn.net 
-scontent.xx.fbcdn.net 
-scontent.fgdl5-1.fna.fbcdn.net 
-graph.facebook.com 
-b-graph.facebook.com 
-connect.facebook.com 
-cdn.fbsbx.com 
-api.facebook.com 
-edge-mqtt.facebook.com 
-mqtt.c10r.facebook.com 
-portal.fb.com 
-star.c10r.facebook.com 
-star-mini.c10r.facebook.com 
-b-api.facebook.com 
 fb.me 
-bigzipfiles.facebook.com 
-l.facebook.com
-#
-# Xbox Live
-#
-clientconfig.passport.net
-v10.events.data.microsoft.com
-v20.events.data.microsoft.com
-client-s.gateway.messenger.live.com
-#
-# Skype
-#
-s.gateway.messenger.live.com
-client-s.gateway.messenger.live.com 
-ui.skype.com 
-pricelist.skype.com 
-apps.skype.com 
-m.hotmail.com 
-sa.symcb.com 
-officeclient.microsoft.com # Microsoft Office
-#
-# Windows 10 Update
-#
-sls.update.microsoft.com.akadns.net
+fbcdn-creative-a.akamaihd.net 
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
-#
-# Microsoft Store
-#
-dl.delivery.mp.microsoft.com 
+forums.sonarr.tv
 geo-prod.do.dsp.mp.microsoft.com 
-displaycatalog.mp.microsoft.com
-#
-# Microsoft Web Pages
-#
-outlook.office365.com
-products.office.com 
-c.s-microsoft.com 
+github.io
+graph.facebook.com 
+gravatar.com    # Plex Custom login pictures
+gs-loc.apple.com               # Allow Wire Messenger to forward some items
 i.s-microsoft.com 
+imagesak.secureserver.net # GoDaddy webmail buttons
+l.facebook.com
+lewrockwell.com
+lidarr.audio
+line.naper.jp
 login.live.com 
 login.microsoftonline.com
-officeclient.microsoft.com
-# 
+m.hotmail.com 
+mandrillapp.com                # Testing for emby blocki
+meta-db-worker02.pop.ric.plex.bz 
+meta.plex.bz 
+meta.plex.tv 
+metrics.plex.tv 
+mqtt.c10r.facebook.com 
 my.nextdns.io
-lewrockwell.com
+nine.plugins.plexapp.com 
+node.plexapp.com 
+o1.email.plex.tv  
+o2.sg0.plex.tv 
+officeclient.microsoft.com
+officeclient.microsoft.com # Microsoft Office
+outlook.office365.com
+plex.tv
+portainer.io
+portal.fb.com 
+pricelist.skype.com 
+products.office.com 
+proxy.plex.bz 
+proxy.plex.tv 
+proxy02.pop.ord.plex.bz 
+pubsub.plex.bz 
+pubsub.plex.tv 
+radarr.video
+s.gateway.messenger.live.com
+sa.symcb.com 
+scontent-lhr3-1.xx.fbcdn.net 
+scontent.fgdl5-1.fna.fbcdn.net 
+scontent.xx.fbcdn.net 
+services.sonarr.tv 
+skyhook.sonarr.tv 
+sls.update.microsoft.com.akadns.net
+sonarr.tv
+staging.plex.tv 
+star-mini.c10r.facebook.com 
+star.c10r.facebook.com 
+status.plex.tv 
+telegram.org
+themoviedb.com  # Metadata for movies
+thetvdb.com     # Metadata for tv series
+tracking-protection.cdn.mozilla.net # Mozilla Firefox Tracking Protection
+tracking.epicgames.com # Epic Games Store
+traffic.megaphone.fm           # podcasts
+tvdb2.plex.tv
+tvthemes.plexapp.com.cdn.
+ui.skype.com 
+upload.facebook.com
+usenet-crawler.com             # UseNet
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
+vthemes.plexapp.com 
+www.plex.tv 
