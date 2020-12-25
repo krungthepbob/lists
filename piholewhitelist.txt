@@ -135,4 +135,4 @@ login.live.com
 login.microsoftonline.com
 officeclient.microsoft.com
 # 
-my.nextdns.io/
+my.nextdns.io
