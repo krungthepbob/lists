@@ -3,4 +3,5 @@
 (\.|^)plex.direct$
 (\.|^)wire.com$
 (\.|^)wickr.com$
+(\.|^)protonmail.com$
 /s([0-9.-]*\.)?symcb.com/
