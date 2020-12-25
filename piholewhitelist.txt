@@ -136,3 +136,4 @@ login.microsoftonline.com
 officeclient.microsoft.com
 # 
 my.nextdns.io
+lewrockwell.com
