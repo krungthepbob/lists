@@ -1,5 +1,4 @@
-mandrillapp.com                # Testing for emby blocking
-www.googleadservices.com       # Enabled for shopping
+mandrillapp.com                # Testing for emby blocki
 api.nzbgeek.info               # Nzbgeek UseNet
 traffic.megaphone.fm           # podcasts
 api.smoot.apple.com            # Allows Wire Messenger to send pictures
