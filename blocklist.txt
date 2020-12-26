@@ -4,3 +4,4 @@ app-measurement.com # Google
 crashlyticsreports-pa.googleapis.com # Google
 analytics.plex.tv # NextDNS oisd
 rdvs.alljoyn.org # NextDNS oisd
+in.appcenter.ms # NextDNS notracking
