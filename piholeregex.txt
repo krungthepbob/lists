@@ -45,6 +45,7 @@
 ^stat(s|istics)?[0-9]*[-.]
 ^track(ers?|ing)?[0-9]*[-.]
 ^traff(ic)?[-.]
+double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 ([A-Za-z0-9.-]*\.)?clicks\.beap\.bc\.yahoo\.com/
 ([A-Za-z0-9.-]*\.)?secure\.footprint\.net/
 ([A-Za-z0-9.-]*\.)?match\.com/
