@@ -72,6 +72,7 @@ officeclient.microsoft.com
 officeclient.microsoft.com # Microsoft Office
 outlook.office365.com
 plex.tv
+plex.direct
 portainer.io
 portal.fb.com 
 pricelist.skype.com 
