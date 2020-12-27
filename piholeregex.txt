@@ -46,7 +46,7 @@
 ^track(ers?|ing)?[0-9]*[-.]
 ^traff(ic)?[-.]
 device-metrics-([A-Za-z0-9.-]*\.)?amazon.com$
-double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
+#double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 ([A-Za-z0-9.-]*\.)?clicks\.beap\.bc\.yahoo\.com$
 ([A-Za-z0-9.-]*\.)?secure\.footprint\.net$
 ([A-Za-z0-9.-]*\.)?match\.com$
@@ -60,7 +60,7 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 ([A-Za-z0-9.-]*\.)?flashtalking(\.\w{2}\.\w{2}|\.\w{2,4})/
 ([A-Za-z0-9.-]*\.)?turn(\.\w{2}\.\w{2}|\.\w{2,4})/
 ([A-Za-z0-9.-]*\.)?mathtag(\.\w{2}\.\w{2}|\.\w{2,4})/
-([A-Za-z0-9.-]*\.)?googlesyndication(\.\w{2}\.\w{2}|\.\w{2,4})/
+#([A-Za-z0-9.-]*\.)?googlesyndication(\.\w{2}\.\w{2}|\.\w{2,4})/
 ([A-Za-z0-9.-]*\.)?s\.yimg\.com/cv/ae/us/audience/
 ([A-Za-z0-9.-]*\.)?clicks\.beap/
 ([A-Za-z0-9.-]*\.)?.doubleclick(\.\w{2}\.\w{2}|\.\w{2,4})/
