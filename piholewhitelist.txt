@@ -46,6 +46,7 @@ fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 forums.sonarr.tv
 geo-prod.do.dsp.mp.microsoft.com 
 github.io
+godaddy.com
 graph.facebook.com 
 gravatar.com    # Plex Custom login pictures
 i.s-microsoft.com 
