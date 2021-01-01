@@ -112,5 +112,6 @@ upload.facebook.com
 usenet-crawler.com             # UseNet
 v10.events.data.microsoft.com
 v20.events.data.microsoft.com
-vthemes.plexapp.com 
+vthemes.plexapp.com
+mail.smtp2go.com
 www.plex.tv 
