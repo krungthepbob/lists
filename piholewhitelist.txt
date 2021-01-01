@@ -115,3 +115,4 @@ v20.events.data.microsoft.com
 vthemes.plexapp.com
 mail.smtp2go.com
 www.plex.tv 
+wiki.fws.fr
