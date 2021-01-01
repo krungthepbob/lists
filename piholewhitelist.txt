@@ -85,6 +85,7 @@ pubsub.plex.bz
 pubsub.plex.tv
 radarr.video
 rc.nas.mcmullin.me
+rumble.com
 s.gateway.messenger.live.com
 sa.symcb.com 
 scontent-lhr3-1.xx.fbcdn.net 
