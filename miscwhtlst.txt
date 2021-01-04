@@ -45,7 +45,6 @@ d2ojpxxtu63wzl.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
 d3ctxlq1ktw2nl.cloudfront.ne
 feeds.podiant.co
-feeds.soundcloud.com
 fonts.googleapis.com
 fonts.gstatic.com
 g.alicdn.com
