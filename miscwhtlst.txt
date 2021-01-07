@@ -24,6 +24,10 @@
 @@||image.member.americanexpress.com^$important
 @@||fig.bbc.co.uk^$important
 @@||www.al.com^$important
+@@||www.usenet-crawler.com^$important
+@@||www.goodreads.com^$important
+@@||sentry.io^$important  # Seems important for emby media
+@@||chtbl.com^$important
 !
 !
 20313.mc.tritondigital.com
