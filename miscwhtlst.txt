@@ -1,7 +1,8 @@
 ! Title: Misc Allowlist
 ! Source: https://raw.githubusercontent.com/krungthepbob/lists/master/tldblklst.txt
 !
-@@||www.scottadamssays.com^$important
+@@||scottadamssays.com^$important
+@@||warroom.org^$important
 @@||feeds.soundcloud.com^$important
 @@||blog.torproject.org^$important
 @@||checkip.dyndns.org^$important
@@ -108,7 +109,6 @@ www.netflix.com
 www.reddit.com
 www.redditmedia.com
 www.redditstatic.com
-www.scottadamssays.com
 www.wendymcelroy.com
 www.vice.com
 www.theblaze.com
