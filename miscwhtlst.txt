@@ -1,6 +1,7 @@
 ! Title: Misc Allowlist
 ! Source: https://raw.githubusercontent.com/krungthepbob/lists/master/tldblklst.txt
 !
+@@||spamhaus.net^$important
 @@||scottadamssays.com^$important
 @@||warroom.org^$important
 @@||feeds.soundcloud.com^$important
