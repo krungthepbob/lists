@@ -5,5 +5,3 @@ crashlyticsreports-pa.googleapis.com # Google
 analytics.plex.tv # NextDNS oisd
 rdvs.alljoyn.org # NextDNS oisd
 in.appcenter.ms # NextDNS notracking
-nexusrules.officeapps.live.com # NextDNS
-g.live.com # NextDNS
