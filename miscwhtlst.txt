@@ -30,8 +30,10 @@
 @@||www.al.com^$important
 @@||www.usenet-crawler.com^$important
 @@||www.goodreads.com^$important
-@@||sentry.io^$important  # Seems important for emby media
 @@||chtbl.com^$important
+@@||sentry.io^$important
+@@||fast.wistia.com^$important
+@@||www.oregonlive.com^$important
 !
 !
 20313.mc.tritondigital.com
