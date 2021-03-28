@@ -82,6 +82,7 @@ reddit.map.fastly.net
 rs-stripe.theblaze.com
 ssl/gstatic.com
 star.c10r.facebook.com
+stats.garudalinux.org
 theblaze.com
 tinypass.com
 tp.5eaa38a2d-frontier.audible.com
