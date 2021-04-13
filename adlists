@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt
 # Don't Remember
 #
 
-https://raw.githubusercontent.com/evankrob/hosts-filenetrehost/master/ad_servers.txt
+# https://raw.githubusercontent.com/evankrob/hosts-filenetrehost/master/ad_servers.txt
 https://sysctl.org/cameleon/hosts
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CountryCodesLists/Thailand.txt
 
