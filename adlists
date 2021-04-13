@@ -20,7 +20,6 @@ https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt
 # Don't Remember
 #
 
-# https://raw.githubusercontent.com/evankrob/hosts-filenetrehost/master/ad_servers.txt
 https://sysctl.org/cameleon/hosts
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CountryCodesLists/Thailand.txt
 
@@ -47,7 +46,7 @@ https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt
 https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
 
 #
-#https://github.com/mitchellkrogza - The Big List of Hacked Malware Web Sites
+# https://github.com/mitchellkrogza - The Big List of Hacked Malware Web Sites
 #
 
 https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list
