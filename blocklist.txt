@@ -1,3 +1,4 @@
+#
 # Pihole Blocklist
 #
 app-measurement.com # Google
