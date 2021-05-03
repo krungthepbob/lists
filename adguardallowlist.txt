@@ -83,7 +83,6 @@ pdst.fm
 pinterest.com
 pkgautoupdate.synology.com
 play.googleapis.com
-play.googleapis.com
 reddit.map.fastly.net
 rs-stripe.theblaze.com
 ssl/gstatic.com
