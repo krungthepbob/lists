@@ -11,7 +11,7 @@
 # Tiktok additional
 #
 #
-(^|\.)tiktok((cdn)|(v))?\.((com)|(org))(\.|-)?
+# (^|\.)tiktok((cdn)|(v))?\.((com)|(org))(\.|-)?
 #
 #
 # Title: Misc Additions
