@@ -1,4 +1,6 @@
-#pfblockerng whitelist
+#
+# pfblockerng whitelist
+#
 .adsafeprotected.com
 .adsafeprotected.com # amazon app 6
 .amazon-adsystem.com # amazon app ads
