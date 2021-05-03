@@ -1,12 +1,14 @@
 #
 # pfblockerng allowlist
 #
-.adsafeprotected.com
+.accounts.google.com
 .adsafeprotected.com # amazon app 6
 .amazon-adsystem.com # amazon app ads
+.americanexpress.com
 .anycast.pixel.adsafeprotected.com # CNAME for (pixel.adsafeprotected.com)
 .anycast.static.adsafeprotected.com # CNAME for (static.adsafeprotected.com)
-.apple.com 
+.apple.com
+.bbc.co.uk
 .bs.eyeblaster.akadns.net # CNAME for (bs.serving-sys.com)
 .bs.serving-sys.com # amazon app 5
 .bsla.eyeblaster.akadns.net # CNAME for (bs.serving-sys.com)
@@ -17,43 +19,76 @@
 .github.com
 .githubusercontent.com
 .gitlab.com
+.interc.pt
+.ipecho.net
 .line.naper.jp
+.mcmullin.biz
+.mcmullin.one
+.mcmullin.org
+.mcmullinfamily.com
+.mcmullintribe.com
 .pixel.adsafeprotected.com # amazon app 4
 .px.moatads.com # amazon app 2
+.robertmcmullin.com
+.scottadamssays.com
 .secure-gl.imrworldwide.com # amazon app 3
+.sendgrid.net
 .sourceforge.net
+.spamhaus.net
+.torproject.org
+.usenet-crawler.com
+.warroom.org
 .wildcard.moatads.com.edgekey.net # CNAME for (px.moatads.com)
+.wire.com
 0.client-channel.google.com
 1drv.com
 2.android.pool.ntp.org
+20313.mc.tritondigital.com
 abp.oisd.nl
+adserver.va3.megaphone.cloud # traffic.megaphone.fm
 akamaihd.net
 akamaitechnologies.com
 akamaized.net
 amazonaws.com
+amp.dailycaller.com
+analytics.chase.com
 android.clients.google.com
+api-glb-sin.smoot.apple.com
+api.facebook.com
 api.ipify.org
 api.rlje.net
+api.smoot.apple.com
 app-api.ted.com
+app.e.seagate.com
+app.shopback.com
 appleid.apple.com
 apps.skype.com
 appsbackup-pa.clients6.google.com
 appsbackup-pa.googleapis.com
 appspot-preview.l.google.com
 apt.sonarr.tv
+argent.xyz
 aspnetcdn.com
 attestation.xboxlive.com
+audible.sc.omtrdc.net
 ax.phobos.apple.com.edgesuite.net
+b-api.facebook.com
 brightcove.net
 c.s-microsoft.com
 cdn.cloudflare.net
 cdn.embedly.com
+cdn.jsdeliver.net
 cdn.optimizely.com
 cdn.vidible.tv
 cdn2.optimizely.com
 cdn3.optimizely.com
 cdnjs.cloudflare.com
 cert.mgt.xboxlive.com
+cf-media.sndcdn.com
+checkip.dyndns.org
+checkout-m.lazada.co.id
+chtbl.com
+citizenfreepress.com
 clientconfig.passport.net
 clients1.google.com
 clients2.google.com
@@ -61,6 +96,7 @@ clients3.google.com
 clients4.google.com
 clients5.google.com
 clients6.google.com
+collector.githubapp.com
 connectivitycheck.android.com
 connectivitycheck.gstatic.com
 continuum.dds.microsoft.com
@@ -76,6 +112,9 @@ ctldl.windowsupdate.com
 cws.conviva.com
 d2c8v52ll5s99u.cloudfront.net
 d2gatte9o95jao.cloudfront.net
+d2ojpxxtu63wzl.cloudfront.net
+d2wy8f7a9ursnm.cloudfront.net
+d3ctxlq1ktw2nl.cloudfront.ne
 dashboard.plex.tv
 dataplicity.com
 def-vef.xboxlive.com
@@ -96,8 +135,12 @@ dynupdate.no-ip.com
 ecn.dev.virtualearth.net
 edge.api.brightcove.com
 eds.xboxlive.com
+feeds.podiant.co
+feeds.soundcloud.com
+fonts.googleapis.com
 fonts.gstatic.com
 forums.sonarr.tv
+g.alicdn.com
 g.live.com
 geo-prod.do.dsp.mp.microsoft.com
 geo3.ggpht.com
@@ -106,36 +149,52 @@ giphy.com
 github.com
 github.io
 github.map.fastly.net # CNAME for (raw.githubusercontent.com)
+go.microsoft.com
 google.com
 googleapis.com
+graph.facebook.com
 gravatar.com
 gstatic.com
+heavy.com
 help.ui.xboxlive.com
 hls.ted.com
+hwcdn.libsyn.com
 i.ytimg.com
 i1.ytimg.com
+images.e.seagate.com
 imagesak.secureserver.net
 img.vidible.tv
 imgix.net
 imgs.xkcd.com
 instantmessaging-pa.googleapis.com
 intercom.io
+iosapps.itunes.apple.com
+ipfs.io
+items.forhonor.ubisoft.com
 jquery.com
 jsdelivr.net
+kasikornbankpubliccompany.sc.omtrdc.net
 keystone.mwbsys.com
 lastfm-img2.akamaized.net
+lewrockwell.us7.list-manage.com
 licensing.xboxlive.com
+lineman.onelink.me
+link.theblaze.com
 live.com
 livepassdl.conviva.com
 login.live.com
 login.microsoftonline.com
+m.9gag.com
+mailchi.mp
 manifest.googlevideo.com
 meta-db-worker02.pop.ric.plex.bz
 meta.plex.bz
 meta.plex.tv
 microsoftonline.com
 msftncsi.com
+mx.sendgrid.net
 my.plexapp.com
+news.usenetserver.com
 nexusrules.officeapps.live.com
 nine.plugins.plexapp.com
 no-ip.com
@@ -146,6 +205,7 @@ ns1.dropbox.com
 ns2.dropbox.com
 o1.email.plex.tv
 o2.sg0.plex.tv
+oauth.reddit.com
 ocsp.apple.com
 office.com
 office.net
@@ -156,9 +216,13 @@ onedrive.live.com
 outlook.live.com
 outlook.office365.com
 pbs.twimg.com # twitter images
+pdst.fm
 pings.conviva.com
+pinterest.com
+pkgautoupdate.synology.com
 placehold.it
 placeholdit.imgix.net
+play.googleapis.com
 players.brightcove.net
 pricelist.skype.com
 products.office.com
@@ -167,9 +231,12 @@ proxy.plex.tv
 proxy02.pop.ord.plex.bz
 pubsub.plex.bz
 pubsub.plex.tv
+r20.rs6.net
 raw.githubusercontent.com
+reddit.map.fastly.net
 redirector.googlevideo.com
 res.cloudinary.com
+rs-stripe.theblaze.com
 s.gateway.messenger.live.com
 s.marketwatch.com
 s.youtube.com
@@ -178,35 +245,49 @@ s1.wp.com
 s2.youtube.com
 s3-1.amazonaws.com # CNAME for (s3.amazonaws.com)
 s3.amazonaws.com
-s3.amazonaws.com
 sa.symcb.com
 secure-gl.imrworldwide.com
 secure.avangate.com
 secure.brightcove.com
 secure.surveymonkey.com
+sentry.io # seems important to emby
 services.sonarr.tv
 skyhook.sonarr.tv
 spclient.wg.spotify.com
 ssl.p.jwpcdn.com
+ssl/gstatic.com
 stackoverflow.com
 staging.plex.tv
+star.c10r.facebook.com
 status.plex.tv
 t.co
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
 tawk.to
 tedcdn.com
+theblaze.com
 themoviedb.com
 thetvdb.com
+tinypass.com
 tinyurl.com
 title.auth.xboxlive.com
 title.mgt.xboxlive.com
+tp.5eaa38a2d-frontier.audible.com
+tracking-protection.cdn.mozilla.net
+tracking.podiant.co
 traffic.libsyn.com
 traffic.megaphone.fm
+traffic.omny.fm
+traffic.podiant.co
+translate.google.com
 tvdb2.plex.tv
 tvthemes.plexapp.com
 twimg.com
+ublock.org
 ui.skype.com
+unagi-na.amazon.com
+usenetserver.com
+users.telenet.be
 video-stats.l.google.com
 videos.vidible.tv
 vidtech.cbsinteractive.com
@@ -214,18 +295,43 @@ widget-cdn.rpxnow.com
 win10.ipv6.microsoft.com
 wp.com
 ws.audioscrobbler.com
+www.adweek.com
+www.al.com
+www.alibaba.com
+www.alicdn.com
+www.aliexpress.com
+www.armytimes.com
+www.audible.com
+www.bing.co
 www.dataplicity.com
+www.dickmorris.com
 www.dropbox-dns.com # CNAME for (dropbox.com)
 www.dropbox.com
+www.goodreads.com
 www.google.com
 www.googleapis.com
+www.gstatic.com
+www.lazada.co.id
+www.lewrockwell.com
+www.logitech.com
+www.mlive.com
 www.msftconnecttest.com
 www.msftncsi.com
+www.naturalnews.com
+www.netflix.com
 www.no-ip.com
 www.pbs.twimg.com # twitter images
 www.podtrac.com
+www.reddit.com
+www.redditmedia.com
+www.redditstatic.com
 www.stackoverflow.com
+www.theblaze.com
+www.theepochtimes.com
+www.thestar.com
 www.today.com
+www.vice.com
+www.wendymcelroy.com
 www.youtube-nocookie.com
 www.youtube.com
 xbox.ipv6.microsoft.com
@@ -233,6 +339,7 @@ xboxexperiencesprod.experimentation.xboxlive.com
 xflight.xboxlive.com
 xkms.xboxlive.com
 xsts.auth.xboxlive.com
+xtraa-secure.reviveservers.com
 youtu.be
 youtube-nocookie.com
 youtube-ui.l.google.com # CNAME for (youtube.com)
