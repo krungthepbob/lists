@@ -7,7 +7,7 @@
 # Large https://oisd.nl - seems to block too much and is closed sourced.  Blocks now have biases.
 #
 
-https://dbl.oisd.nl/
+# https://dbl.oisd.nl/
 
 #
 # Firebog - https://firebog.net/
