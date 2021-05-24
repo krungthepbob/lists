@@ -15,7 +15,6 @@ bazarr.media
 bigzipfiles.facebook.com 
 c.s-microsoft.com 
 cdn.fbsbx.com 
-client-s.gateway.messenger.live.com
 client-s.gateway.messenger.live.com 
 clientconfig.passport.net
 cloudflare.net 
