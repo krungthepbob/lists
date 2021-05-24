@@ -28,17 +28,6 @@ dl.delivery.mp.microsoft.com
 docker.io
 download.sonarr.tv 
 edge-mqtt.facebook.com 
-external-lhr0-1.xx.fbcdn.net 
-external-lhr1-1.xx.fbcdn.net 
-external-lhr10-1.xx.fbcdn.net 
-external-lhr2-1.xx.fbcdn.net 
-external-lhr3-1.xx.fbcdn.net 
-external-lhr4-1.xx.fbcdn.net 
-external-lhr5-1.xx.fbcdn.net 
-external-lhr6-1.xx.fbcdn.net 
-external-lhr7-1.xx.fbcdn.net 
-external-lhr8-1.xx.fbcdn.net 
-external-lhr9-1.xx.fbcdn.net 
 fb.me 
 fbcdn-creative-a.akamaihd.net 
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
