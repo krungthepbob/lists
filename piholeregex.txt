@@ -5,12 +5,6 @@
 #
 ^.+\.(date||men|tk|rest|fit|gq|work|ml|ga|cf|wang)$
 #
-# Pinterest Promoted Ads
-# https://www.reddit.com/r/uBlockOrigin/comments/hcn1ju/block_promoted_pins_on_pinterest/
-#
-^pinterest.*##[data-grid-item]:has([title="Promoted by"])$
-#
-#
 # Title: Various Regex
 # Description: https://www.reddit.com/r/pihole/comments/hi4g08/tiktok_list/
 # Tiktok additional
