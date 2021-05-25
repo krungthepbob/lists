@@ -7,14 +7,14 @@
 # Large https://oisd.nl - seems to block too much and is closed sourced.  Blocks now have biases.
 #
 
-https://dbl.oisd.nl/
+# https://dbl.oisd.nl/
 
 #
 # Firebog - https://firebog.net/
 #
 
-# https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list
-https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_all.list
+https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list
+# https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_all.list
 https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt
 
 #
@@ -23,6 +23,9 @@ https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt
 
 https://sysctl.org/cameleon/hosts
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CountryCodesLists/Thailand.txt
+https://raw.githubusercontent.com/anthony-wang/PiHoleBlocklist/master/regex.list
+https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole/Archive/Yahoo_Ad_Servers.txt
+https://orca.pet/notonmyshift/domains.txt
 
 #
 # YouTube - https://github.com/kboghdady
