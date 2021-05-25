@@ -95,6 +95,7 @@ lgtvonline.lge.com
 # Title: Perflyst's SmartTV Blocklist for Pi-hole - RegEx extension
 # Version: 22May2020v1
 # https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/regex.list
+# https://raw.githubusercontent.com/anthony-wang/PiHoleBlocklist/master/regex.list
 
 # LG
 (^|\.)ibs\.lgappstv\.com
@@ -117,3 +118,34 @@ lgtvonline.lge.com
 # Other
 # (^|\.)myhomescreen\.tv$ # can produce false positives, rather block individual domains
 ^api\..*\.hismarttv\.com$
+
+# General "catch-all" rules
+((^)|(.))adchoice.
+((^)|(.))ads.roku.com
+((^)|(.))adsdk.
+((^)|(.))adserv.
+((^)|(.))analytic.
+((^)|(.))logs.roku.com
+((^)|(.))metric.
+((^)|(.))telemetry.
+((^)|(.))tracking.
+(.*)\.g00\.(.*)
+(^|\.)xn--.*$
+(ads|captive|cloudservices|logs).roku.com$
+.*\.g00\..*
+^(.+[-_.])??adse?rv(er?|ice)?s?[0-9]*[-.]
+^(.+[-_.])??m?ad[sxv]?[0-9]*[-_.]
+^(.+[-_.])??xn--
+^adim(age|g)s?[0-9]*[-_.]
+^adtrack(er|ing)?[0-9]*[-.]
+^advert(s|is(ing|ements?))?[0-9]*[-_.]
+^aff(iliat(es?|ion))?[-.]
+^analytics?[-.]
+^banners?[-.]
+^beacons?[0-9]*[-.]
+^count(ers?)?[0-9]*[-.]
+^pixels?[-.]
+^stat(s|istics)?[0-9]*[-.]
+^telemetry[-.]
+^track(ers?|ing)?[0-9]*[-.]
+^traff(ic)?[-.]
