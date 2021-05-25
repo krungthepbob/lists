@@ -7,14 +7,14 @@
 # Large https://oisd.nl - seems to block too much and is closed sourced.  Blocks now have biases.
 #
 
-# https://dbl.oisd.nl/
+https://dbl.oisd.nl/
 
 #
 # Firebog - https://firebog.net/
 #
 
-https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list
-# https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_all.list
+# https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list
+https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_all.list
 https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt
 
 #
