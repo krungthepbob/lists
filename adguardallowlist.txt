@@ -77,6 +77,7 @@ lineman.onelink.me
 link.theblaze.com
 m.9gag.com
 mailchi.mp
+news.usenet.farm
 news.usenetserver.com
 oauth.reddit.com
 pdst.fm
