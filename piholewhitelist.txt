@@ -53,6 +53,8 @@ meta.plex.tv
 metrics.plex.tv 
 mqtt.c10r.facebook.com 
 my.nextdns.io
+news.usenet.farm
+news.usenetserver.com
 nine.plugins.plexapp.com 
 node.plexapp.com 
 o1.email.plex.tv  
