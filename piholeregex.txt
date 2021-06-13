@@ -83,7 +83,6 @@ lgtvonline.lge.com
 (^|\.)bugsnag\.com$
 (^|\.)redshell\.io$
 (^|\.)treasuredata\.com$
-(^|\.)unity(|3d)\.com$
 (^|\.)unityads(|\.co)\.com$
 
 # Title: Perflyst's SmartTV Blocklist for Pi-hole - RegEx extension
