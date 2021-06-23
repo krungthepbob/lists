@@ -104,5 +104,6 @@ v10.events.data.microsoft.com
 v20.events.data.microsoft.com
 vthemes.plexapp.com
 mail.smtp2go.com
-www.plex.tv 
+www.plex.tv
+www.metricfire.com
 wiki.fws.fr
