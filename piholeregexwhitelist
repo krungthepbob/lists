@@ -1,6 +1,7 @@
 (\.|^)line\.naper\.jp$              # Line
 (\.|^)wire.com$
 (\.|^)wickr.com$
+(\.|^)ipfs.io$
 (\.|^)protonmail.com$
 /s([0-9.-]*\.)?symcb.com/
 (\.|^)mcmullin.me$
