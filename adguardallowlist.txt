@@ -24,8 +24,6 @@
 @@||r20.rs6.net^$important
 @@||scottadamssays.com^$important
 @@||sendgrid.net^$important
-@@||sentry.io^$important
-@@||sentry.io^$important
 @@||spamhaus.net^$important
 @@||unagi-na.amazon.com^$important
 @@||warroom.org^$important
@@ -110,7 +108,6 @@ www.armytimes.com
 www.audible.com
 www.bing.co
 www.dickmorris.com
-www.gstatic.com
 www.lazada.co.id
 www.lewrockwell.com
 www.logitech.com
@@ -125,4 +122,3 @@ www.thestar.com
 www.vice.com
 www.wendymcelroy.com
 ynuf.aliapp.org
-
