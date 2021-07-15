@@ -37,6 +37,7 @@ github.io
 godaddy.com
 graph.facebook.com 
 gravatar.com    # Plex Custom login pictures
+gstaticadssl.l.google.com
 i.s-microsoft.com 
 imagesak.secureserver.net # GoDaddy webmail buttons
 l.facebook.com
