@@ -18,7 +18,8 @@ cdn.fbsbx.com
 client-s.gateway.messenger.live.com 
 clientconfig.passport.net
 cloudflare.net 
-connect.facebook.com 
+connect.facebook.com
+console.cloud.google.com
 cpms.spop10.ams.plex.bz 
 cpms35.spop10.ams.plex.bz 
 creative.ak.fbcdn.net 
