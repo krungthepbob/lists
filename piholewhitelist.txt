@@ -76,6 +76,7 @@ proxy02.pop.ord.plex.bz
 pubsub.plex.bz 
 pubsub.plex.tv
 radarr.video
+r20.rs6.net
 rc.nas.mcmullin.me
 rumble.com
 s.gateway.messenger.live.com
