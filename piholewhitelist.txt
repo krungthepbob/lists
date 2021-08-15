@@ -107,6 +107,7 @@ v10.events.data.microsoft.com
 v20.events.data.microsoft.com
 vthemes.plexapp.com
 mail.smtp2go.com
+www.duckdns.org
 www.gstatic.com
 www.plex.tv
 www.metricfire.com
