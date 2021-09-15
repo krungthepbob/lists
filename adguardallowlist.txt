@@ -35,6 +35,25 @@
 @@||www.oregonlive.com^$important
 @@||www.usenet-crawler.com^$important
 @@||xtraa-secure.reviveservers.com^$important
+@@||app.getresponse.com^$important
+@@||graph.instagram.com^$important
+@@||parrotos^$important
+@@||mas-ext.amazon.com^$important
+@@||www.gstatic.com^$important
+@@||gstaticadssl.l.google.com^$important
+@@||d.dropbox.com^$important
+@@||1drv.ms^$important
+@@||smallstep.com^$important
+@@||sdk.split.io^$important  # AP Classroom
+@@||api.split.io^$important  # AP Classroom
+@@||events.split.io^$important  # AP Classroom
+@@||cdn.split.io^$important  # AP Classroom
+@@||app.convertkit.com^$important
+@@||netflix.com^$important
+@@||rs6.net^$important
+@@||mas-ssr-ad.amazon.com^$important
+@@||wms-na.assoc-amazon.com^$important
+@@||view.member.americanexpress.com^$important
 !
 !
 /(^|\.)brew.sh/
