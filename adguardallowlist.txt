@@ -1,22 +1,20 @@
 ! Title: Misc Allowlist
 ! Source: https://raw.githubusercontent.com/krungthepbob/lists/master/tldblklst.txt
 !
+@@||americanexpress.com^$important
 @@||app.e.seagate.com^$important
 @@||app.shopback.com^$important
 @@||blog.torproject.org^$important
 @@||checkip.dyndns.org^$important
 @@||chtbl.com^$important
-@@||click.member.americanexpress.com^$important
+@@||@@||cloudfront.net
 @@||fast.wistia.com^$important
 @@||feeds.soundcloud.com^$important
 @@||fig.bbc.co.uk^$important
 @@||image.member.americanexpress.com^$important
 @@||images.e.seagate.com^$important
-@@||images.e.seagate.com^$important
 @@||interc.pt^$important
 @@||ipecho.net^$important
-@@||jellyfin^$important
-@@||local^$important
 @@||m.9gag.com^$important
 @@||mx.sendgrid.net^$important
 @@||nondzee^$important
@@ -44,17 +42,14 @@
 @@||d.dropbox.com^$important
 @@||1drv.ms^$important
 @@||smallstep.com^$important
-@@||sdk.split.io^$important  # AP Classroom
-@@||api.split.io^$important  # AP Classroom
+@@||split.io^$important  # AP Classroom
 @@||events.split.io^$important  # AP Classroom
-@@||cdn.split.io^$important  # AP Classroom
 @@||app.convertkit.com^$important
 @@||netflix.com^$important
 @@||rs6.net^$important
 @@||mas-ssr-ad.amazon.com^$important
 @@||wms-na.assoc-amazon.com^$important
 @@||view.member.americanexpress.com^$important
-!
 !
 /(^|\.)brew.sh/
 /(^|\.)energized.pro/
@@ -74,9 +69,6 @@ cf-media.sndcdn.com
 checkout-m.lazada.co.id
 citizenfreepress.com
 collector.githubapp.com
-d2ojpxxtu63wzl.cloudfront.net
-d2wy8f7a9ursnm.cloudfront.net
-d3ctxlq1ktw2nl.cloudfront.ne
 feeds.podiant.co
 fonts.googleapis.com
 fonts.gstatic.com
