@@ -95,6 +95,7 @@ status.plex.tv
 telegram.org
 themoviedb.com  # Metadata for movies
 thetvdb.com     # Metadata for tv series
+tracker.pureos.net
 tracking-protection.cdn.mozilla.net # Mozilla Firefox Tracking Protection
 tracking.epicgames.com # Epic Games Store
 traffic.megaphone.fm           # podcasts
