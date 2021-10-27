@@ -17,3 +17,4 @@
 eulatracking-public-service-([A-Za-z0-9.-]*\.)?epicgames.com$
 (\.|^)local.mcmullintribe.lan$
 (\.|^)rancher.io.mcmullintribe.lan$
+(\.|^)avs-alexa-([A-Za-z0-9.-]*\.)?na.amazon.com$
