@@ -50,6 +50,7 @@
 @@||mas-ssr-ad.amazon.com^$important
 @@||wms-na.assoc-amazon.com^$important
 @@||view.member.americanexpress.com^$important
+@@||ทองคําราคา.com^$important
 !
 /(^|\.)brew.sh/
 /(^|\.)energized.pro/
