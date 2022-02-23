@@ -7,7 +7,7 @@
 # Large https://oisd.nl - seems to block too much and is closed sourced.  Blocks now have biases.
 #
 
-https://dbl.oisd.nl/
+# https://dbl.oisd.nl/
 
 #
 # Firebog - https://firebog.net/
@@ -22,33 +22,33 @@ https://v.firebog.net/hosts/Prigent-Adult.txt
 # Don't Remember
 #
 
-https://sysctl.org/cameleon/hosts
-https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CountryCodesLists/Thailand.txt
-https://raw.githubusercontent.com/anthony-wang/PiHoleBlocklist/master/regex.list
-https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole/Archive/Yahoo_Ad_Servers.txt
-https://orca.pet/notonmyshift/domains.txt
+# https://sysctl.org/cameleon/hosts
+# https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CountryCodesLists/Thailand.txt
+# https://raw.githubusercontent.com/anthony-wang/PiHoleBlocklist/master/regex.list
+# https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole/Archive/Yahoo_Ad_Servers.txt
+# https://orca.pet/notonmyshift/domains.txt
 
 #
 # YouTube - https://github.com/kboghdady
 #
 
-https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt
+# https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt
 
 #
 # Prevent Phishing - https://obutterbach.medium.com/unlock-the-full-potential-of-pihole-e795342e0e36
 #
 
-https://gitlab.com/Kurobeats/phishing_hosts/raw/master/hosts
-https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt
+# https://gitlab.com/Kurobeats/phishing_hosts/raw/master/hosts
+# #https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt
 
 #
 # DeveloperDan - https://www.github.developerdan.com/hosts/
 #
 
 # https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
-https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt
+# https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt
 # https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt
-https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
+# https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
 
 #
 # https://github.com/mitchellkrogza - The Big List of Hacked Malware Web Sites
@@ -61,4 +61,4 @@ https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-
 #
 
 # https://phishing.army/download/phishing_army_blocklist.txt
-https://phishing.army/download/phishing_army_blocklist_extended.txt
+# https://phishing.army/download/phishing_army_blocklist_extended.txt
