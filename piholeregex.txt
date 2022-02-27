@@ -142,3 +142,27 @@ lgtvonline.lge.com
 ^telemetry[-.]
 ^track(ers?|ing)?[0-9]*[-.]
 ^traff(ic)?[-.]
+#
+# Apple
+# https://www.reddit.com/r/Adguard/comments/jp4wdm/noappleads_block_apple_advertising_on_apple/
+#
+(^|\.)iad.apple\.com 
+(^|\.)iadsdk.apple\.com 
+proxy.advp.apple.com 
+launch.apple.com 
+iadworkbench.apple.com 
+iadctest.qwapi.com 
+ls.advp.apple.com 
+#
+advertising.apple.com
+banners.itunes.apple.com
+iadcontent.apple.com
+iadmoo.apple.com
+qwapi.apple.com
+webproxy.advp.apple.com
+webproxy-advp.iad-apple.com
+webproxy-advp.iad-apple.com.akadns.net
+#
+metrics.apple.com
+securemetrics.apple.com
+apple.comscoreresearch.com
