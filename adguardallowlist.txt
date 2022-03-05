@@ -1,81 +1,80 @@
-! Title: Misc Allowlist
 ! Source: https://raw.githubusercontent.com/krungthepbob/lists/master/tldblklst.txt
+! Title: Misc Allowlist
 !
+!
+@@||@@||cloudfront.net
+@@||1drv.ms^$important
 @@||americanexpress.com^$important
+@@||app.convertkit.com^$important
 @@||app.e.seagate.com^$important
+@@||app.getresponse.com^$important
 @@||app.shopback.com^$important
 @@||blog.torproject.org^$important
+@@||brew.sh/
 @@||checkip.dyndns.org^$important
 @@||chtbl.com^$important
-@@||@@||cloudfront.net
+@@||chtbl.com$
+@@||d.dropbox.com^$important
+@@||energized.pro/
+@@||events.split.io^$important  # AP Classroom
 @@||fast.wistia.com^$important
 @@||feeds.soundcloud.com^$important
 @@||fig.bbc.co.uk^$important
+@@||garudalinux.org$
+@@||graph.instagram.com^$important
+@@||gstaticadssl.l.google.com^$important
+@@||iadsdk.apple.com^$important
 @@||image.member.americanexpress.com^$important
 @@||images.e.seagate.com^$important
 @@||interc.pt^$important
 @@||ipecho.net^$important
+@@||ipfs.io$                                # ipfs
+@@||line.naper.jp$                          # Line
 @@||m.9gag.com^$important
+@@||mas-ext.amazon.com^$important
+@@||mas-ssr-ad.amazon.com^$important
+@@||mcmullin.biz^$important
+@@||mcmullin.me^$important
+@@||mcmullin.one^$important
+@@||mcmullin.org^$important
+@@||mcmullin.xyz^$important
+@@||mcmullinfamily.com^$important
+@@||mcmullinonline.com^$important
+@@||mcmullintribe.com^$important
+@@||mcmullintribe.lan^$important
+@@||moneroocean.stream^$important
 @@||mx.sendgrid.net^$important
-@@||nondzee^$important
+@@||netflix.com^$important
 @@||o1678976x198.outbound-mail.sendgrid.net^$important
+@@||parrotos^$important
+@@||protonmail.com$
 @@||r20.rs6.net^$important
+@@||robertmcmullin.com$
+@@||rs6.net^$important
+@@||s.youtube.com^$important
 @@||scottadamssays.com^$important
+@@||secureserver.net/
 @@||sendgrid.net^$important
+@@||smallstep.com^$important
 @@||spamhaus.net^$important
+@@||split.io^$important  # AP Classroom
+@@||symcb.com^$important
 @@||unagi-na.amazon.com^$important
+@@||americanexpress.com^$important
 @@||warroom.org^$important
+@@||wickr.com^$important
 @@||wire.com^$important
+@@||wms-na.assoc-amazon.com^$important
 @@||www.al.com^$important
 @@||www.aweber.com^$important
 @@||www.goodreads.com^$important
+@@||www.gstatic.com^$important
 @@||www.mlive.com^$important
 @@||www.oregonlive.com^$important
 @@||www.usenet-crawler.com^$important
 @@||xtraa-secure.reviveservers.com^$important
-@@||app.getresponse.com^$important
-@@||graph.instagram.com^$important
-@@||parrotos^$important
-@@||mas-ext.amazon.com^$important
-@@||www.gstatic.com^$important
-@@||gstaticadssl.l.google.com^$important
-@@||d.dropbox.com^$important
-@@||1drv.ms^$important
-@@||smallstep.com^$important
-@@||split.io^$important  # AP Classroom
-@@||events.split.io^$important  # AP Classroom
-@@||app.convertkit.com^$important
-@@||netflix.com^$important
-@@||rs6.net^$important
-@@||mas-ssr-ad.amazon.com^$important
-@@||wms-na.assoc-amazon.com^$important
-@@||view.member.americanexpress.com^$important
-@@||ทองคําราคา.com^$important
-!
-@@||brew.sh/
-@@||energized.pro/
-@@||secureserver.net/
-@@||wire.com$
-@@||wickr.com$
-@@||ipfs.io$
-@@||protonmail.com$
-@@||symcb.com/
-@@||mcmullin.me$
-@@||mcmullin.biz$
-@@||mcmullin.org$
-@@||mcmullin.one$
-@@||mcmullinfamily.com$
-@@||mcmullintribe.com$
-@@||robertmcmullin.com$
-@@||chtbl.com$
-@@||garudalinux.org$
 @@||xx.fbcdn.net$
-eulatracking-public-service-([A-Za-z0-9.-]*\.)?epicgames.com$
-@@||mcmullintribe.lan$
-@@||moneroocean.stream$
-@@||line.naper.jp$              # Line
-@@||iadsdk.apple.com^$important
-@@||s.youtube.com^$important
+!
 20313.mc.tritondigital.com
 adserver.va3.megaphone.cloud                            # traffic.megaphone.fm
 amp.dailycaller.com
@@ -91,6 +90,7 @@ cf-media.sndcdn.com
 checkout-m.lazada.co.id
 citizenfreepress.com
 collector.githubapp.com
+eulatracking-public-service-([A-Za-z0-9.-]*\.)?epicgames.com$
 feeds.podiant.co
 fonts.googleapis.com
 fonts.gstatic.com
