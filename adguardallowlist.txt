@@ -52,9 +52,10 @@
 @@||view.member.americanexpress.com^$important
 @@||ทองคําราคา.com^$important
 !
-/(^|\.)brew.sh/
-/(^|\.)energized.pro/
-/(^|\.)secureserver.net/
+@@||brew.sh/
+@@||energized.pro/
+@@||secureserver.net/
+
 20313.mc.tritondigital.com
 adserver.va3.megaphone.cloud                            # traffic.megaphone.fm
 amp.dailycaller.com
