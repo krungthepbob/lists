@@ -1,3 +1,4 @@
+# This list seems not to work with AdGuardHome.  Use AdGuard-Allowlist
 (\.|^)line\.naper\.jp$              # Line
 (\.|^)wire.com$
 (\.|^)wickr.com$
