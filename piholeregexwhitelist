@@ -21,3 +21,4 @@ eulatracking-public-service-([A-Za-z0-9.-]*\.)?epicgames.com$
 avs-alexa-([A-Za-z0-9.-]*\.)?na.amazon.com$
 (\.|^)moneroocean.stream$
 (\.|^)samsungcloudsolution.net$
+(\.|^)samsungcloudcdn.com$
