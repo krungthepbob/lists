@@ -7,3 +7,4 @@ analytics.plex.tv # NextDNS oisd
 rdvs.alljoyn.org # NextDNS oisd
 in.appcenter.ms # NextDNS notracking
 device-metrics-us-2.amazon.com # Blocked in Adguard
+incoming.telemetry.mozilla.org
