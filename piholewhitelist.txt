@@ -118,3 +118,5 @@ kasikornbankpubliccompany.sc.omtrdc.net
 gs-loc.apple.com
 cf.iadsdk.apple.com
 iadsdk.apple.com
+ynuf.aliapp.org
+ynuf.alipay.org
