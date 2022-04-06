@@ -23,7 +23,6 @@
 @@||garudalinux.org$
 @@||graph.instagram.com^$important
 @@||gstaticadssl.l.google.com^$important
-@@||iadsdk.apple.com^$important
 @@||image.member.americanexpress.com^$important
 @@||images.e.seagate.com^$important
 @@||interc.pt^$important
