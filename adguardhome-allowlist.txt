@@ -43,7 +43,6 @@
 @@||mcmullintribe.lan^$important
 @@||moneroocean.stream^$important
 @@||mx.sendgrid.net^$important
-@@||netflix.com^$important
 @@||o1678976x198.outbound-mail.sendgrid.net^$important
 @@||parrotos^$important
 @@||protonmail.com$
