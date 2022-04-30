@@ -19,14 +19,10 @@ https://dbl.oisd.nl/
 # https://v.firebog.net/hosts/Prigent-Adult.txt
 
 #
-# Don't Remember
+# Energized - https://github.com/EnergizedProtection
 #
 
-# https://sysctl.org/cameleon/hosts
-# https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CountryCodesLists/Thailand.txt
-# https://raw.githubusercontent.com/anthony-wang/PiHoleBlocklist/master/regex.list
-# https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole/Archive/Yahoo_Ad_Servers.txt
-# https://orca.pet/notonmyshift/domains.txt
+https://block.energized.pro/unified/formats/domains.txt
 
 #
 # YouTube - https://github.com/kboghdady
