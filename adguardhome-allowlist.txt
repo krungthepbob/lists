@@ -2,7 +2,7 @@
 ! Title: Misc Allowlist
 !
 !
-@@||@@||cloudfront.net
+@@||cloudfront.net
 @@||1drv.ms^$important
 @@||americanexpress.com^$important
 @@||app.convertkit.com^$important
