@@ -57,3 +57,5 @@
 @@||udm.scorecardresearch.com^$important
 @@||dcf.espn.com^$important
 @@||glimmer.hearstapps.com^$important
+@@||mcmullin.xyz^$important
+@@||home.arpa^$important
