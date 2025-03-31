@@ -1,4 +1,7 @@
-
+! Source: https://github.com/krungthepbob/lists/edit/master/adguardhome-blocklist.txt
+! Title: Misc Allowlist
+!
+!
 ||adservice.google.*^$important
 ||adsterra.com^$important
 ||amplitude.com^$important
